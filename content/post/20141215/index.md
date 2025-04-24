@@ -21,6 +21,6 @@ http://youtu.be/zHLCgob9GMQ
 </iframe>
 
 
-{{< lightbox src="p1.jpg" alt="テスト画像" >}}
-{{< lightbox src="p2.jpg" alt="テスト画像" >}}
-{{< lightbox src="p3.jpg" alt="テスト画像" >}}
+{{< lightbox src="p1.jpg" alt="演奏会風景1" >}}
+{{< lightbox src="p2.jpg" alt="演奏会風景2" >}}
+{{< lightbox src="p3.jpg" alt="演奏会風景2" >}}
