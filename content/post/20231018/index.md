@@ -1,6 +1,6 @@
 ---
 title: "2023 発表会"
-description: ""
+description: "発表会の様子をYoutubeにUpしました"
 date: 2023-10-18T13:00:00
 draft: false
 ---

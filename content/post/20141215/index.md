@@ -1,6 +1,6 @@
 ---
 title: "2014年　１２月　in FKD　演奏動画"
-description: ""
+description: "発表会の様子をYoutubeにUpしました。すごいたくさんのお客様がいらっしゃいました。"
 date: 2014-12-15T13:00:00
 draft: false
 ---
