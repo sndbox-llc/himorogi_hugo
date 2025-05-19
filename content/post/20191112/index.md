@@ -2,6 +2,7 @@
 title: "ひもろぎ音楽教室 発表会（2019年11月10日開催）"
 description: "2019年11月10日に開催されたひもろぎ音楽教室の発表会の記録ページです。"
 date: 2019-11-12T13:00:00
+images: ['icatch.webp']
 ---
 
 ## ひもろぎ音楽教室 発表会（2019年11月10日）
@@ -24,11 +25,11 @@ date: 2019-11-12T13:00:00
 本発表会は無事に終了いたしました。ご来場いただいた皆様、誠にありがとうございました。
 </p>
 
-
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/3Ml6EQc5t6Q" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<div class="ratio ratio-16x9 mb-4">
+  <iframe 
+    src="https://www.youtube.com/embed/3Ml6EQc5t6Q" 
+    title="YouTube video player" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>

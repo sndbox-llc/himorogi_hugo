@@ -2,7 +2,7 @@
 title: "ひもろぎ音楽教室 発表会（2023年開催・動画あり）"
 description: "2023年に開催されたひもろぎ音楽教室の発表会の様子を動画で公開しています。子どもたちの一生懸命な演奏をご覧ください。"
 date: 2023-10-18T13:00:00
-draft: false
+images: ['icatch.webp']
 ---
 
 ## ひもろぎ音楽教室 発表会（2023年）
@@ -19,13 +19,14 @@ draft: false
 
 ### 🎥 発表会動画
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/FtxEvdybwkk" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<div class="ratio ratio-16x9 mb-4">
+  <iframe 
+    src="https://www.youtube.com/embed/FtxEvdybwkk" 
+    title="YouTube video player" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
