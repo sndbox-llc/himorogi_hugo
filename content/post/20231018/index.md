@@ -5,7 +5,7 @@ date: 2023-10-18T13:00:00
 images: ['icatch.webp']
 ---
 
-## ひもろぎ音楽教室 発表会（2023年）
+## ひもろぎ音楽教室 発表会（2023年）{#himorogi_recital_2023}
 
 2023年に開催された「ひもろぎ音楽教室」の発表会の様子を、YouTubeにて公開しています。  
 当日は、多くの保護者の皆様、地域の方々にご来場いただき、温かな拍手とともに子どもたちの成長が見守られました。
@@ -17,7 +17,7 @@ images: ['icatch.webp']
 
 ---
 
-### 🎥 発表会動画
+### 🎥 発表会動画{#himorogi_recital_2023_gallery}
 
 <div class="ratio ratio-16x9 mb-4">
   <iframe 
