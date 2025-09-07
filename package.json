@@ -15,6 +15,6 @@
   "devDependencies": {
   },
   "otherDependencies": {
-    "hugo": "0.149.0"
+    "hugo": "0.149.1"
   }
 }
